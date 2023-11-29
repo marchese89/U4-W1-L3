@@ -22,7 +22,7 @@ public class Sim {
                 '}';
     }
 
-    public void Chiama(Chiamata c){
+    public void chiama(Chiamata c){
         this.ultimeCinqueChiamate.add(c);
     }
 }
